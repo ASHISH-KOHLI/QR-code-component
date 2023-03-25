@@ -10,16 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
 ### Screenshot
-
-
 
 ### Links
   - Live Site URL: ( https://ashish-kohli.github.io/QR-code-component/)
@@ -37,7 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [resource 2](https://www.geeksforgeeks.org/)
 
 ## Author
- -[@- Frontend Mentor - [@ASHISH-KOHLI]]
+  Frontend Mentor- @ASHISH-KOHLI
 
-
-## Acknowledgments
